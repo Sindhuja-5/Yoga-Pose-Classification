@@ -1,2 +1,2 @@
 # Yoga-Pose-Classification
-Classify yoga poses into 19 different asanas
+Human activity recognition is one of important problems in computer vision. It includes accurate identification of activity being performed by a person or group of people. In this project, we will be classifying yoga poses into different classes. We have around 19 types of Asanas in our dataset and 29K images for training a machine learning model. Yoga pose estimation has multiple applications such as creating a mobile application for yoga trainer.
